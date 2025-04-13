@@ -1,0 +1,5 @@
+@CoinGeckoAPI_HostAddress = https://localhost:7012
+
+### Check if API is Running
+GET {{CoinGeckoAPI_HostAddress}}/api/Crypto/price?cryptoId=bitcoin&currency=usd
+Accept: application/json
