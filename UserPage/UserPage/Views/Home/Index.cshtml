@@ -1,0 +1,35 @@
+﻿@model UserPage.Models.UserViewModel
+
+@{
+    ViewBag.Title = "User Page";
+}
+
+<div style="padding: 20px; font-family: Arial, sans-serif;">
+    <div style="display: flex; justify-content: space-between; align-items: center;">
+        <h2>Welcome @Model.Username to IBG Crypto Search!</h2>
+        <div>
+            <span>Regular User: @Model.Username</span>
+            <button disabled style="margin-left: 10px;">Log Out</button>
+            <button disabled style="margin-left: 10px;">Switch Authorization</button>
+        </div>
+    </div>
+
+    <hr />
+
+    <!-- Form to fetch coin price -->
+    @using (Html.BeginForm("Index", "Home", FormMethod.Get))
+    {
+        <label>Coin Name: </label>
+        <input type="text" name="coinName" value="@Model.CoinName" />
+
+        <label style="margin-left: 15px;">Currency: </label>
+        <input type="text" name="currency" value="@Model.Currency" />
+
+        <button type="submit" style="margin-left: 15px;">Search</button>
+    }
+
+    <div style="margin-top: 30px; padding: 20px; border: 1px solid #ccc; border-radius: 10px;">
+        <h3>CoinGecko API Result (@Model.CoinName in @Model.Currency)</h3>
+        <pre style="background-color: #f4f4f4; padding: 10px;">@Model.CoinDataJson</pre>
+    </div>
+</div>
