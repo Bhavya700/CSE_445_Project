@@ -497,11 +497,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\9gbab\\source\\repos\\CyptoSearchTool\\CoinGeckoAPI\\CoinGeckoAPI.csproj",
+      "projectUniqueName": "C:\\Users\\9gbab\\Downloads\\CyptoSearchTool\\CyptoSearchTool\\CoinGeckoAPI\\CoinGeckoAPI.csproj",
       "projectName": "CoinGeckoAPI",
-      "projectPath": "C:\\Users\\9gbab\\source\\repos\\CyptoSearchTool\\CoinGeckoAPI\\CoinGeckoAPI.csproj",
+      "projectPath": "C:\\Users\\9gbab\\Downloads\\CyptoSearchTool\\CyptoSearchTool\\CoinGeckoAPI\\CoinGeckoAPI.csproj",
       "packagesPath": "C:\\Users\\9gbab\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\9gbab\\source\\repos\\CyptoSearchTool\\CoinGeckoAPI\\obj\\",
+      "outputPath": "C:\\Users\\9gbab\\Downloads\\CyptoSearchTool\\CyptoSearchTool\\CoinGeckoAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

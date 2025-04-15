@@ -1,0 +1,30 @@
+<CryptoData>
+  <Prices>
+    <id>bitcoin</id>
+    <symbol>btc</symbol>
+    <name>Bitcoin</name>
+    <image>https://coin-images.coingecko.com/coins/images/1/large/bitcoin.png?1696501400</image>
+    <current_price>85621</current_price>
+    <market_cap>1700051087237</market_cap>
+    <market_cap_rank>1</market_cap_rank>
+    <fully_diluted_valuation>1700051087237</fully_diluted_valuation>
+    <total_volume>28170718273</total_volume>
+    <high_24h>85917</high_24h>
+    <low_24h>84051</low_24h>
+    <price_change_24h>767.31</price_change_24h>
+    <price_change_percentage_24h>0.90427</price_change_percentage_24h>
+    <market_cap_change_24h>16399504508</market_cap_change_24h>
+    <market_cap_change_percentage_24h>0.97404</market_cap_change_percentage_24h>
+    <circulating_supply>19851631</circulating_supply>
+    <total_supply>19851631</total_supply>
+    <max_supply>21000000</max_supply>
+    <ath>108786</ath>
+    <ath_change_percentage>-21.26465</ath_change_percentage>
+    <ath_date>2025-01-20T09:11:54.494Z</ath_date>
+    <atl>67.81</atl>
+    <atl_change_percentage>126214.60427</atl_change_percentage>
+    <atl_date>2013-07-06T00:00:00Z</atl_date>
+    <roi />
+    <last_updated>2025-04-15T12:23:30.876Z</last_updated>
+  </Prices>
+</CryptoData>

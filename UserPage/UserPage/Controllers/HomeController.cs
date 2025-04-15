@@ -1,44 +1,79 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using System.IO;
+using System.Net.Http;
 using System.Threading.Tasks;
-using System.Web;
 using System.Web.Mvc;
-using CoinGeckoAPI.Models;
-using CoinGeckoAPI.Services;
-using System.Threading.Tasks;
+using Newtonsoft.Json;
+using System.Xml;
+using UserPage.Models;
 
 namespace UserPage.Controllers
 {
     public class HomeController : Controller
     {
-        public async Task<IActionResult> Index()
-        {
-            var username = "Crypto";
+        private static readonly HttpClient _httpClient = new HttpClient();
 
-            var jsonData = awaitCoinGeckoService.GetCoinDataAsync("bitcoin"); //fix this later
-            CoinGeckoService.Savejson(jsonData, "bitcoin.json"); //fix this later
-            CoinGeckoService.ConvertJsonToXml("bitcoin.json", "bitcoin.xml"); //fix this later
-            var model = new UserModel
+        public async Task<ActionResult> Index(string coinName = "bitcoin", string currency = "usd")
+        {
+            string username = "CryptoBro42";
+
+            string jsonData = await GetCryptoPrice(coinName, currency);
+
+            if (!string.IsNullOrEmpty(jsonData))
             {
-                username = username,
-                CoinDataJson = jsonData
+                SaveJson(jsonData, "crypto_price.json");
+                ConvertJsonToXml("crypto_price.json", "crypto_price.xml");
+            }
+
+            var model = new UserViewModel
+            {
+                Username = username,
+                CoinDataJson = jsonData,
+                CoinName = coinName,
+                Currency = currency
             };
+
             return View(model);
         }
 
-        public ActionResult About()
-        {
-            ViewBag.Message = "Your application description page.";
 
-            return View();
+        private async Task<string> GetCryptoPrice(string coinName, string currency)
+        {
+            try
+            {
+                string apiUrl = $"https://localhost:7012/api/Crypto/price?cryptoId={coinName}&currency={currency}";
+                var response = await _httpClient.GetAsync(apiUrl);
+                response.EnsureSuccessStatusCode();
+                return await response.Content.ReadAsStringAsync();
+            }
+            catch
+            {
+                return null;
+            }
         }
 
-        public ActionResult Contact()
+        private void SaveJson(string json, string filename)
         {
-            ViewBag.Message = "Your contact page.";
-
-            return View();
+            string path = Server.MapPath($"~/App_Data/{filename}");
+            System.IO.File.WriteAllText(path, json);
         }
+
+        private void ConvertJsonToXml(string jsonFilename, string xmlFilename)
+        {
+            string jsonPath = Server.MapPath($"~/App_Data/{jsonFilename}");
+            string xmlPath = Server.MapPath($"~/App_Data/{xmlFilename}");
+            string json = System.IO.File.ReadAllText(jsonPath);
+
+            // Wrap the array into an object for valid XML conversion
+            if (json.TrimStart().StartsWith("["))
+            {
+                json = $"{{ \"Prices\": {json} }}";
+            }
+
+            XmlDocument doc = JsonConvert.DeserializeXmlNode(json, "CryptoData");
+            doc.Save(xmlPath);
+        }
+
     }
 }
+
+

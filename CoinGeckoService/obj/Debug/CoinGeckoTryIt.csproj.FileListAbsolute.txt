@@ -11,3 +11,16 @@ C:\Users\9gbab\source\repos\CyptoSearchTool\CoinGeckoService\obj\Debug\CoinGecko
 C:\Users\9gbab\source\repos\CyptoSearchTool\CoinGeckoService\obj\Debug\CoinGeck.EA37CF22.Up2Date
 C:\Users\9gbab\source\repos\CyptoSearchTool\CoinGeckoService\obj\Debug\CoinGeckoService.exe
 C:\Users\9gbab\source\repos\CyptoSearchTool\CoinGeckoService\obj\Debug\CoinGeckoService.pdb
+C:\Users\9gbab\Downloads\CyptoSearchTool\CyptoSearchTool\CoinGeckoService\bin\Debug\CoinGeckoService.exe.config
+C:\Users\9gbab\Downloads\CyptoSearchTool\CyptoSearchTool\CoinGeckoService\bin\Debug\CoinGeckoService.exe
+C:\Users\9gbab\Downloads\CyptoSearchTool\CyptoSearchTool\CoinGeckoService\bin\Debug\CoinGeckoService.pdb
+C:\Users\9gbab\Downloads\CyptoSearchTool\CyptoSearchTool\CoinGeckoService\bin\Debug\Newtonsoft.Json.dll
+C:\Users\9gbab\Downloads\CyptoSearchTool\CyptoSearchTool\CoinGeckoService\bin\Debug\Newtonsoft.Json.xml
+C:\Users\9gbab\Downloads\CyptoSearchTool\CyptoSearchTool\CoinGeckoService\obj\Debug\CoinGeckoTryIt.csproj.AssemblyReference.cache
+C:\Users\9gbab\Downloads\CyptoSearchTool\CyptoSearchTool\CoinGeckoService\obj\Debug\CoinGeckoService.Form1.resources
+C:\Users\9gbab\Downloads\CyptoSearchTool\CyptoSearchTool\CoinGeckoService\obj\Debug\CoinGeckoService.Properties.Resources.resources
+C:\Users\9gbab\Downloads\CyptoSearchTool\CyptoSearchTool\CoinGeckoService\obj\Debug\CoinGeckoTryIt.csproj.GenerateResource.cache
+C:\Users\9gbab\Downloads\CyptoSearchTool\CyptoSearchTool\CoinGeckoService\obj\Debug\CoinGeckoTryIt.csproj.CoreCompileInputs.cache
+C:\Users\9gbab\Downloads\CyptoSearchTool\CyptoSearchTool\CoinGeckoService\obj\Debug\CoinGeck.EA37CF22.Up2Date
+C:\Users\9gbab\Downloads\CyptoSearchTool\CyptoSearchTool\CoinGeckoService\obj\Debug\CoinGeckoService.exe
+C:\Users\9gbab\Downloads\CyptoSearchTool\CyptoSearchTool\CoinGeckoService\obj\Debug\CoinGeckoService.pdb

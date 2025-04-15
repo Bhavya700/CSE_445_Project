@@ -23,7 +23,7 @@ namespace CoinGeckoAPI.Services
             try
             {
                 //API url created with passed in information.
-                var url = $"{_apiUrl}?vs_currency={currency}&ids={cryptoId}&x_cg_demo_api_key={_apiKey}";
+                var url = $"{_apiUrl}?vs_currency={currency}&ids={cryptoId}&x_cg_demo_api_key={_apiKey}"; //correct, nothing to change
 
                 // send the request and await response 
                 var response = await _httpClient.GetStringAsync(url);
