@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "G:\\25\u0027_SCHOOL_SPRING\\CSE 445_dist.Soft.dev\\CSE445_git\\CSE_445_Project\\UserPage\\",
+  "WorkspaceRootPath": "G:\\25\u0027_SCHOOL_SPRING\\CSE 445_dist.Soft.dev\\CSE_445_Project\\UserPage\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0F223AC7-6EDC-4301-A04A-9DD858256E7F}|UserPage\\UserPage.csproj|G:\\25\u0027_SCHOOL_SPRING\\CSE 445_dist.Soft.dev\\CSE445_git\\CSE_445_Project\\UserPage\\userpage\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0F223AC7-6EDC-4301-A04A-9DD858256E7F}|UserPage\\UserPage.csproj|g:\\25\u0027_school_spring\\cse 445_dist.soft.dev\\cse_445_project\\userpage\\userpage\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F223AC7-6EDC-4301-A04A-9DD858256E7F}|UserPage\\UserPage.csproj|solutionrelative:userpage\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -22,15 +22,15 @@
       "AbsoluteMoniker": "D:0:0:{B8FC9301-87C0-4D29-A1C2-E5D518A88751}|C:\\Users\\9gbab\\Downloads\\CyptoSearchTool\\CyptoSearchTool\\CoinGeckoAPI\\CoinGeckoAPI.csproj|c:\\users\\9gbab\\downloads\\cyptosearchtool\\cyptosearchtool\\coingeckoapi\\coingeckoapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F223AC7-6EDC-4301-A04A-9DD858256E7F}|UserPage\\UserPage.csproj|G:\\25\u0027_SCHOOL_SPRING\\CSE 445_dist.Soft.dev\\CSE445_git\\CSE_445_Project\\UserPage\\userpage\\models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0F223AC7-6EDC-4301-A04A-9DD858256E7F}|UserPage\\UserPage.csproj|G:\\25\u0027_SCHOOL_SPRING\\CSE 445_dist.Soft.dev\\CSE_445_Project\\UserPage\\userpage\\models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F223AC7-6EDC-4301-A04A-9DD858256E7F}|UserPage\\UserPage.csproj|solutionrelative:userpage\\models\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F223AC7-6EDC-4301-A04A-9DD858256E7F}|UserPage\\UserPage.csproj|G:\\25\u0027_SCHOOL_SPRING\\CSE 445_dist.Soft.dev\\CSE445_git\\CSE_445_Project\\UserPage\\userpage\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0F223AC7-6EDC-4301-A04A-9DD858256E7F}|UserPage\\UserPage.csproj|G:\\25\u0027_SCHOOL_SPRING\\CSE 445_dist.Soft.dev\\CSE_445_Project\\UserPage\\userpage\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0F223AC7-6EDC-4301-A04A-9DD858256E7F}|UserPage\\UserPage.csproj|solutionrelative:userpage\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F223AC7-6EDC-4301-A04A-9DD858256E7F}|UserPage\\UserPage.csproj|G:\\25\u0027_SCHOOL_SPRING\\CSE 445_dist.Soft.dev\\CSE445_git\\CSE_445_Project\\UserPage\\userpage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0F223AC7-6EDC-4301-A04A-9DD858256E7F}|UserPage\\UserPage.csproj|G:\\25\u0027_SCHOOL_SPRING\\CSE 445_dist.Soft.dev\\CSE_445_Project\\UserPage\\userpage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0F223AC7-6EDC-4301-A04A-9DD858256E7F}|UserPage\\UserPage.csproj|solutionrelative:userpage\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
@@ -53,6 +53,10 @@
           "SelectedChildIndex": 12,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "appsettings.json",
@@ -60,8 +64,7 @@
               "ToolTip": "C:\\Users\\9gbab\\Downloads\\CyptoSearchTool\\CyptoSearchTool\\CoinGeckoAPI\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-15T12:15:17.07Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T12:15:17.07Z"
             },
             {
               "$type": "Document",
@@ -71,8 +74,7 @@
               "ToolTip": "C:\\Users\\9gbab\\Downloads\\CyptoSearchTool\\CyptoSearchTool\\CoinGeckoAPI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T12:11:58.581Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T12:11:58.581Z"
             },
             {
               "$type": "Document",
@@ -82,12 +84,7 @@
               "ToolTip": "C:\\Users\\9gbab\\Downloads\\CyptoSearchTool\\CyptoSearchTool\\CoinGeckoAPI\\CoinGeckoAPI.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-04-15T12:11:57.707Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+              "WhenOpened": "2025-04-15T12:11:57.707Z"
             },
             {
               "$type": "Document",
@@ -97,8 +94,7 @@
               "ToolTip": "C:\\Users\\9gbab\\Downloads\\CyptoSearchTool\\CyptoSearchTool\\CoinGeckoAPI\\Services\\CryptoService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T12:11:54.751Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T12:11:54.751Z"
             },
             {
               "$type": "Document",
@@ -108,17 +104,16 @@
               "ToolTip": "C:\\Users\\9gbab\\Downloads\\CyptoSearchTool\\CyptoSearchTool\\CoinGeckoAPI\\Controllers\\CryptoController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T12:11:51.432Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T12:11:51.432Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "CoinGeckoAPI.http",
               "DocumentMoniker": "G:\\25\u0027_SCHOOL_SPRING\\CSE 445_dist.Soft.dev\\CSE445_git\\CSE_445_Project\\CoinGeckoAPI\\CoinGeckoAPI.http",
-              "RelativeDocumentMoniker": "..\\CoinGeckoAPI\\CoinGeckoAPI.http",
+              "RelativeDocumentMoniker": "..\\..\\CSE445_git\\CSE_445_Project\\CoinGeckoAPI\\CoinGeckoAPI.http",
               "ToolTip": "G:\\25\u0027_SCHOOL_SPRING\\CSE 445_dist.Soft.dev\\CSE445_git\\CSE_445_Project\\CoinGeckoAPI\\CoinGeckoAPI.http",
-              "RelativeToolTip": "..\\CoinGeckoAPI\\CoinGeckoAPI.http",
+              "RelativeToolTip": "..\\..\\CSE445_git\\CSE_445_Project\\CoinGeckoAPI\\CoinGeckoAPI.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
               "WhenOpened": "2025-04-15T12:04:35.042Z"
@@ -128,9 +123,9 @@
               "DocumentIndex": 10,
               "Title": "CoinGeckoAPI.csproj.user",
               "DocumentMoniker": "G:\\25\u0027_SCHOOL_SPRING\\CSE 445_dist.Soft.dev\\CSE445_git\\CSE_445_Project\\CoinGeckoAPI\\CoinGeckoAPI.csproj.user",
-              "RelativeDocumentMoniker": "..\\CoinGeckoAPI\\CoinGeckoAPI.csproj.user",
+              "RelativeDocumentMoniker": "..\\..\\CSE445_git\\CSE_445_Project\\CoinGeckoAPI\\CoinGeckoAPI.csproj.user",
               "ToolTip": "G:\\25\u0027_SCHOOL_SPRING\\CSE 445_dist.Soft.dev\\CSE445_git\\CSE_445_Project\\CoinGeckoAPI\\CoinGeckoAPI.csproj.user",
-              "RelativeToolTip": "..\\CoinGeckoAPI\\CoinGeckoAPI.csproj.user",
+              "RelativeToolTip": "..\\..\\CSE445_git\\CSE_445_Project\\CoinGeckoAPI\\CoinGeckoAPI.csproj.user",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
               "WhenOpened": "2025-04-15T12:03:33.761Z"
@@ -140,62 +135,58 @@
               "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "G:\\25\u0027_SCHOOL_SPRING\\CSE 445_dist.Soft.dev\\CSE445_git\\CSE_445_Project\\CoinGeckoAPI\\Program.cs",
-              "RelativeDocumentMoniker": "..\\CoinGeckoAPI\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\CSE445_git\\CSE_445_Project\\CoinGeckoAPI\\Program.cs",
               "ToolTip": "G:\\25\u0027_SCHOOL_SPRING\\CSE 445_dist.Soft.dev\\CSE445_git\\CSE_445_Project\\CoinGeckoAPI\\Program.cs",
-              "RelativeToolTip": "..\\CoinGeckoAPI\\Program.cs",
+              "RelativeToolTip": "..\\..\\CSE445_git\\CSE_445_Project\\CoinGeckoAPI\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T12:03:00.024Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T12:03:00.024Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "G:\\25\u0027_SCHOOL_SPRING\\CSE 445_dist.Soft.dev\\CSE445_git\\CSE_445_Project\\UserPage\\UserPage\\Views\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "G:\\25\u0027_SCHOOL_SPRING\\CSE 445_dist.Soft.dev\\CSE_445_Project\\UserPage\\UserPage\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "UserPage\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "G:\\25\u0027_SCHOOL_SPRING\\CSE 445_dist.Soft.dev\\CSE445_git\\CSE_445_Project\\UserPage\\UserPage\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "G:\\25\u0027_SCHOOL_SPRING\\CSE 445_dist.Soft.dev\\CSE_445_Project\\UserPage\\UserPage\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "UserPage\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-13T03:38:09.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-13T03:38:09.637Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "G:\\25\u0027_SCHOOL_SPRING\\CSE 445_dist.Soft.dev\\CSE445_git\\CSE_445_Project\\UserPage\\UserPage\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "G:\\25\u0027_SCHOOL_SPRING\\CSE 445_dist.Soft.dev\\CSE_445_Project\\UserPage\\UserPage\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "UserPage\\Views\\Home\\Index.cshtml",
-              "ToolTip": "G:\\25\u0027_SCHOOL_SPRING\\CSE 445_dist.Soft.dev\\CSE445_git\\CSE_445_Project\\UserPage\\UserPage\\Views\\Home\\Index.cshtml",
+              "ToolTip": "G:\\25\u0027_SCHOOL_SPRING\\CSE 445_dist.Soft.dev\\CSE_445_Project\\UserPage\\UserPage\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "UserPage\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-15T12:01:05.004Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T12:01:05.004Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
               "Title": "UserViewModel.cs",
-              "DocumentMoniker": "G:\\25\u0027_SCHOOL_SPRING\\CSE 445_dist.Soft.dev\\CSE445_git\\CSE_445_Project\\UserPage\\UserPage\\Models\\UserViewModel.cs",
+              "DocumentMoniker": "G:\\25\u0027_SCHOOL_SPRING\\CSE 445_dist.Soft.dev\\CSE_445_Project\\UserPage\\UserPage\\Models\\UserViewModel.cs",
               "RelativeDocumentMoniker": "UserPage\\Models\\UserViewModel.cs",
-              "ToolTip": "G:\\25\u0027_SCHOOL_SPRING\\CSE 445_dist.Soft.dev\\CSE445_git\\CSE_445_Project\\UserPage\\UserPage\\Models\\UserViewModel.cs",
+              "ToolTip": "G:\\25\u0027_SCHOOL_SPRING\\CSE 445_dist.Soft.dev\\CSE_445_Project\\UserPage\\UserPage\\Models\\UserViewModel.cs",
               "RelativeToolTip": "UserPage\\Models\\UserViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-15T12:01:03.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-15T12:01:03.927Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "G:\\25\u0027_SCHOOL_SPRING\\CSE 445_dist.Soft.dev\\CSE445_git\\CSE_445_Project\\UserPage\\UserPage\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "G:\\25\u0027_SCHOOL_SPRING\\CSE 445_dist.Soft.dev\\CSE_445_Project\\UserPage\\UserPage\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "UserPage\\Controllers\\HomeController.cs",
-              "ToolTip": "G:\\25\u0027_SCHOOL_SPRING\\CSE 445_dist.Soft.dev\\CSE445_git\\CSE_445_Project\\UserPage\\UserPage\\Controllers\\HomeController.cs",
+              "ToolTip": "G:\\25\u0027_SCHOOL_SPRING\\CSE 445_dist.Soft.dev\\CSE_445_Project\\UserPage\\UserPage\\Controllers\\HomeController.cs",
               "RelativeToolTip": "UserPage\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAUwEgAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAywEgAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-15T12:01:03.099Z",
               "EditorCaption": ""
