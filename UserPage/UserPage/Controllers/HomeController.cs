@@ -11,11 +11,11 @@ namespace UserPage.Controllers
     public class HomeController : Controller
     {
         private static readonly HttpClient _httpClient = new HttpClient();
-
+        private string xmlFilePath => Server.MapPath("~/App_Data/Members.xml");
         public async Task<ActionResult> Index(string coinName = "bitcoin", string currency = "usd")
         {
-            string username = "CryptoBro42";
 
+            string username = Session["username"] as string;
             string jsonData = await GetCryptoPrice(coinName, currency);
 
             if (!string.IsNullOrEmpty(jsonData))
@@ -73,7 +73,83 @@ namespace UserPage.Controllers
             doc.Save(xmlPath);
         }
 
+
+
+
+        //Code for Bhavya's Page
+        public ActionResult SignOut()
+        {
+            //clearing session here, but could clear user state as well
+            Session.Clear(); 
+            return RedirectToAction("LoginView");
+        }
+        public ActionResult LoginView()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public ActionResult Login(UserViewModel model)
+        {
+            XmlDocument doc = new XmlDocument();
+            doc.Load(xmlFilePath);
+
+            foreach (XmlNode node in doc.SelectNodes("/Users/User"))
+            {
+                string storedUsername = node.SelectSingleNode("Username").InnerText;
+                string storedPassword = node.SelectSingleNode("Password").InnerText;
+
+                if (model.Username == storedUsername && model.Password == storedPassword)
+                {
+                    // Redirect to Index after successful login
+                    Session["Username"] = storedUsername;
+                    return RedirectToAction("Index");
+                }
+            }
+
+            ViewBag.Message = "Invalid username or password.";
+            return View("LoginView");
+        }
+
+        public ActionResult SignupView()
+        {
+            return View();
+        }
+
+        [HttpPost]
+        public ActionResult Signup(UserViewModel model)
+        {
+            XmlDocument doc = new XmlDocument();
+
+            if (System.IO.File.Exists(xmlFilePath))
+            {
+                doc.Load(xmlFilePath);
+            }
+            else
+            {
+                XmlDeclaration dec = doc.CreateXmlDeclaration("1.0", null, null);
+                doc.AppendChild(dec);
+                XmlElement root = doc.CreateElement("Users");
+                doc.AppendChild(root);
+            }
+
+            XmlElement newUser = doc.CreateElement("User");
+
+            XmlElement userElem = doc.CreateElement("Username");
+            userElem.InnerText = model.Username;
+
+            XmlElement passElem = doc.CreateElement("Password");
+            passElem.InnerText = model.Password;
+
+            newUser.AppendChild(userElem);
+            newUser.AppendChild(passElem);
+
+            doc.DocumentElement.AppendChild(newUser);
+            doc.Save(xmlFilePath);
+
+            ViewBag.Message = "Account created successfully!";
+            return View("SignupView");
+        }
+        //End of Bhavya's Code
     }
 }
-
-
