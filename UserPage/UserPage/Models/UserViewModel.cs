@@ -7,5 +7,7 @@
 
         public string CoinName { get; set; }
         public string Currency { get; set; }
+        //Bhavya utilizes the password 
+        public string Password { get; set; }
     }
 }
