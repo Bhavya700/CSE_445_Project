@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Bhavya\\CSE_445_Project\\CSE_445_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0884D610-9A50-42AA-8FB6-DA47791B2800}|WebApplication2\\WebApplication2.csproj|d:\\bhavya\\cse_445_project\\cse_445_project\\webapplication2\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0884D610-9A50-42AA-8FB6-DA47791B2800}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A9CDF3-9D0B-488F-81A3-047CB7DC114A}|SecurityUtils\\SecurityUtils.csproj|D:\\Bhavya\\CSE_445_Project\\CSE_445_Project\\securityutils\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A9CDF3-9D0B-488F-81A3-047CB7DC114A}|SecurityUtils\\SecurityUtils.csproj|solutionrelative:securityutils\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A9CDF3-9D0B-488F-81A3-047CB7DC114A}|SecurityUtils\\SecurityUtils.csproj|D:\\Bhavya\\CSE_445_Project\\CSE_445_Project\\securityutils\\services\\hashingoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A9CDF3-9D0B-488F-81A3-047CB7DC114A}|SecurityUtils\\SecurityUtils.csproj|solutionrelative:securityutils\\services\\hashingoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A9CDF3-9D0B-488F-81A3-047CB7DC114A}|SecurityUtils\\SecurityUtils.csproj|D:\\Bhavya\\CSE_445_Project\\CSE_445_Project\\securityutils\\services\\icryptoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A9CDF3-9D0B-488F-81A3-047CB7DC114A}|SecurityUtils\\SecurityUtils.csproj|solutionrelative:securityutils\\services\\icryptoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0884D610-9A50-42AA-8FB6-DA47791B2800}|WebApplication2\\WebApplication2.csproj|D:\\Bhavya\\CSE_445_Project\\CSE_445_Project\\webapplication2\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0884D610-9A50-42AA-8FB6-DA47791B2800}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0884D610-9A50-42AA-8FB6-DA47791B2800}|WebApplication2\\WebApplication2.csproj|D:\\Bhavya\\CSE_445_Project\\CSE_445_Project\\webapplication2\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0884D610-9A50-42AA-8FB6-DA47791B2800}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0884D610-9A50-42AA-8FB6-DA47791B2800}|WebApplication2\\WebApplication2.csproj|D:\\Bhavya\\CSE_445_Project\\CSE_445_Project\\webapplication2\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0884D610-9A50-42AA-8FB6-DA47791B2800}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\signup.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0884D610-9A50-42AA-8FB6-DA47791B2800}|WebApplication2\\WebApplication2.csproj|D:\\Bhavya\\CSE_445_Project\\CSE_445_Project\\webapplication2\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0884D610-9A50-42AA-8FB6-DA47791B2800}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0884D610-9A50-42AA-8FB6-DA47791B2800}|WebApplication2\\WebApplication2.csproj|D:\\Bhavya\\CSE_445_Project\\CSE_445_Project\\webapplication2\\services\\authhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0884D610-9A50-42AA-8FB6-DA47791B2800}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\services\\authhelpers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13A9CDF3-9D0B-488F-81A3-047CB7DC114A}|SecurityUtils\\SecurityUtils.csproj|D:\\Bhavya\\CSE_445_Project\\CSE_445_Project\\securityutils\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13A9CDF3-9D0B-488F-81A3-047CB7DC114A}|SecurityUtils\\SecurityUtils.csproj|solutionrelative:securityutils\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0884D610-9A50-42AA-8FB6-DA47791B2800}|WebApplication2\\WebApplication2.csproj|D:\\Bhavya\\CSE_445_Project\\CSE_445_Project\\webapplication2\\member.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0884D610-9A50-42AA-8FB6-DA47791B2800}|WebApplication2\\WebApplication2.csproj|solutionrelative:webapplication2\\member.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "D:\\Bhavya\\CSE_445_Project\\CSE_445_Project\\SecurityUtils\\Services\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "SecurityUtils\\Services\\PasswordHasher.cs",
+              "ToolTip": "D:\\Bhavya\\CSE_445_Project\\CSE_445_Project\\SecurityUtils\\Services\\PasswordHasher.cs",
+              "RelativeToolTip": "SecurityUtils\\Services\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T11:42:23.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HashingOptions.cs",
+              "DocumentMoniker": "D:\\Bhavya\\CSE_445_Project\\CSE_445_Project\\SecurityUtils\\Services\\HashingOptions.cs",
+              "RelativeDocumentMoniker": "SecurityUtils\\Services\\HashingOptions.cs",
+              "ToolTip": "D:\\Bhavya\\CSE_445_Project\\CSE_445_Project\\SecurityUtils\\Services\\HashingOptions.cs",
+              "RelativeToolTip": "SecurityUtils\\Services\\HashingOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T11:38:15.662Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Signup.aspx.cs",
+              "DocumentMoniker": "D:\\Bhavya\\CSE_445_Project\\CSE_445_Project\\WebApplication2\\Signup.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Signup.aspx.cs",
+              "ToolTip": "D:\\Bhavya\\CSE_445_Project\\CSE_445_Project\\WebApplication2\\Signup.aspx.cs",
+              "RelativeToolTip": "WebApplication2\\Signup.aspx.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T11:05:00.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Bhavya\\CSE_445_Project\\CSE_445_Project\\WebApplication2\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Services\\AuthService.cs",
+              "ToolTip": "D:\\Bhavya\\CSE_445_Project\\CSE_445_Project\\WebApplication2\\Services\\AuthService.cs",
+              "RelativeToolTip": "WebApplication2\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T10:50:34.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthHelpers.cs",
+              "DocumentMoniker": "D:\\Bhavya\\CSE_445_Project\\CSE_445_Project\\WebApplication2\\Services\\AuthHelpers.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Services\\AuthHelpers.cs",
+              "ToolTip": "D:\\Bhavya\\CSE_445_Project\\CSE_445_Project\\WebApplication2\\Services\\AuthHelpers.cs",
+              "RelativeToolTip": "WebApplication2\\Services\\AuthHelpers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T10:49:12.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\Bhavya\\CSE_445_Project\\CSE_445_Project\\WebApplication2\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Services\\IAuthService.cs",
+              "ToolTip": "D:\\Bhavya\\CSE_445_Project\\CSE_445_Project\\WebApplication2\\Services\\IAuthService.cs",
+              "RelativeToolTip": "WebApplication2\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T10:47:20.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICryptoService.cs",
+              "DocumentMoniker": "D:\\Bhavya\\CSE_445_Project\\CSE_445_Project\\SecurityUtils\\Services\\ICryptoService.cs",
+              "RelativeDocumentMoniker": "SecurityUtils\\Services\\ICryptoService.cs",
+              "ToolTip": "D:\\Bhavya\\CSE_445_Project\\CSE_445_Project\\SecurityUtils\\Services\\ICryptoService.cs",
+              "RelativeToolTip": "SecurityUtils\\Services\\ICryptoService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T09:50:12.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.aspx.cs",
+              "DocumentMoniker": "D:\\Bhavya\\CSE_445_Project\\CSE_445_Project\\WebApplication2\\Login.aspx.cs",
+              "RelativeDocumentMoniker": "WebApplication2\\Login.aspx.cs",
+              "ToolTip": "D:\\Bhavya\\CSE_445_Project\\CSE_445_Project\\WebApplication2\\Login.aspx.cs",
+              "RelativeToolTip": "WebApplication2\\Login.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T06:23:53.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "D:\\Bhavya\\CSE_445_Project\\CSE_445_Project\\WebApplication2\\Login.aspx",
+              "RelativeDocumentMoniker": "WebApplication2\\Login.aspx",
+              "ToolTip": "D:\\Bhavya\\CSE_445_Project\\CSE_445_Project\\WebApplication2\\Login.aspx",
+              "RelativeToolTip": "WebApplication2\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-19T06:23:17.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Bhavya\\CSE_445_Project\\CSE_445_Project\\SecurityUtils\\Class1.cs",
+              "RelativeDocumentMoniker": "SecurityUtils\\Class1.cs",
+              "ToolTip": "D:\\Bhavya\\CSE_445_Project\\CSE_445_Project\\SecurityUtils\\Class1.cs",
+              "RelativeToolTip": "SecurityUtils\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T09:41:49.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Member.aspx",
+              "DocumentMoniker": "D:\\Bhavya\\CSE_445_Project\\CSE_445_Project\\WebApplication2\\Member.aspx",
+              "RelativeDocumentMoniker": "WebApplication2\\Member.aspx",
+              "ToolTip": "D:\\Bhavya\\CSE_445_Project\\CSE_445_Project\\WebApplication2\\Member.aspx",
+              "RelativeToolTip": "WebApplication2\\Member.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-04-19T06:23:49.945Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

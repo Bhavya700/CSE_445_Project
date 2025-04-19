@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "uVfOWyXS0ohJi+/NbYdE4g6lvhR0PTQxvP9bS2yVjHo=",
+  "Source": "WordFilteringService",
+  "BasePath": "_content/WordFilteringService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
