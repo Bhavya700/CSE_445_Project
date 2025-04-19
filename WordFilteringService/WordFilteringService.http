@@ -1,0 +1,8 @@
+@WordFilteringService_HostAddress = http://localhost:7046
+
+POST {{WordFilteringService_HostAddress}}/api/wordfilter/filter
+Content-Type: application/json
+
+{
+  "Text": "The quick <b>brown</b> fox jumps over the lazy dog."
+}

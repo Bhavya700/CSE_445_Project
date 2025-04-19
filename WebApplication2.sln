@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication2", "WebApplication2\WebApplication2.csproj", "{0884D610-9A50-42AA-8FB6-DA47791B2800}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinGeckoAPI", "CoinGeckoAPI\CoinGeckoAPI.csproj", "{9B463A1C-E43E-4253-8AFF-5AD19357C0E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xAPI", "C:\Users\9gbab\Downloads\CyptoSearchTool\CyptoSearchTool\xAPI\xAPI.csproj", "{6550316F-02C3-4ED1-8C89-D720E8F9808E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordFilteringService", "C:\Users\9gbab\Downloads\CyptoSearchTool\CyptoSearchTool\WordFilteringService\WordFilteringService.csproj", "{A05DF7F9-94D0-46F5-83E1-D28D9FB7612F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{9B463A1C-E43E-4253-8AFF-5AD19357C0E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9B463A1C-E43E-4253-8AFF-5AD19357C0E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9B463A1C-E43E-4253-8AFF-5AD19357C0E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6550316F-02C3-4ED1-8C89-D720E8F9808E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6550316F-02C3-4ED1-8C89-D720E8F9808E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6550316F-02C3-4ED1-8C89-D720E8F9808E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6550316F-02C3-4ED1-8C89-D720E8F9808E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A05DF7F9-94D0-46F5-83E1-D28D9FB7612F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A05DF7F9-94D0-46F5-83E1-D28D9FB7612F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A05DF7F9-94D0-46F5-83E1-D28D9FB7612F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A05DF7F9-94D0-46F5-83E1-D28D9FB7612F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

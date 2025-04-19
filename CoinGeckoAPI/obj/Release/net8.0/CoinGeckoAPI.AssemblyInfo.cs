@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CoinGeckoAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+81a66afcb9fad232a24b9a4bdbff60ff1456d8f9")]
 [assembly: System.Reflection.AssemblyProductAttribute("CoinGeckoAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CoinGeckoAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
