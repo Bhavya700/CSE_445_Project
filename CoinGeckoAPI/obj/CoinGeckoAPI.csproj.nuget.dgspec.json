@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\9gbab\\Downloads\\CyptoSearchTool\\CyptoSearchTool\\CoinGeckoAPI\\CoinGeckoAPI.csproj": {}
+    "G:\\25'_SCHOOL_SPRING\\CSE 445_dist.Soft.dev\\CSE_445_Project\\CoinGeckoAPI\\CoinGeckoAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\9gbab\\Downloads\\CyptoSearchTool\\CyptoSearchTool\\CoinGeckoAPI\\CoinGeckoAPI.csproj": {
+    "G:\\25'_SCHOOL_SPRING\\CSE 445_dist.Soft.dev\\CSE_445_Project\\CoinGeckoAPI\\CoinGeckoAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\9gbab\\Downloads\\CyptoSearchTool\\CyptoSearchTool\\CoinGeckoAPI\\CoinGeckoAPI.csproj",
+        "projectUniqueName": "G:\\25'_SCHOOL_SPRING\\CSE 445_dist.Soft.dev\\CSE_445_Project\\CoinGeckoAPI\\CoinGeckoAPI.csproj",
         "projectName": "CoinGeckoAPI",
-        "projectPath": "C:\\Users\\9gbab\\Downloads\\CyptoSearchTool\\CyptoSearchTool\\CoinGeckoAPI\\CoinGeckoAPI.csproj",
+        "projectPath": "G:\\25'_SCHOOL_SPRING\\CSE 445_dist.Soft.dev\\CSE_445_Project\\CoinGeckoAPI\\CoinGeckoAPI.csproj",
         "packagesPath": "C:\\Users\\9gbab\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\9gbab\\Downloads\\CyptoSearchTool\\CyptoSearchTool\\CoinGeckoAPI\\obj\\",
+        "outputPath": "G:\\25'_SCHOOL_SPRING\\CSE 445_dist.Soft.dev\\CSE_445_Project\\CoinGeckoAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

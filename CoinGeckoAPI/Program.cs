@@ -21,7 +21,7 @@ builder.Services.AddCors(options =>
             .AllowAnyOrigin()
             .AllowAnyHeader()
             .AllowAnyMethod()
-            .WithExposedHeaders("*"); // optional, for certain responses
+            .WithExposedHeaders("*"); // had to expand CORs policy, API wasn't working prior
     });
 });
 

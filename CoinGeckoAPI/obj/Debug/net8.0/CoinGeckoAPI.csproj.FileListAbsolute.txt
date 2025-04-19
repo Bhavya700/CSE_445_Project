@@ -72,3 +72,40 @@ C:\Users\9gbab\Downloads\CyptoSearchTool\CyptoSearchTool\CoinGeckoAPI\obj\Debug\
 C:\Users\9gbab\Downloads\CyptoSearchTool\CyptoSearchTool\CoinGeckoAPI\obj\Debug\net8.0\CoinGeckoAPI.pdb
 C:\Users\9gbab\Downloads\CyptoSearchTool\CyptoSearchTool\CoinGeckoAPI\obj\Debug\net8.0\CoinGeckoAPI.genruntimeconfig.cache
 C:\Users\9gbab\Downloads\CyptoSearchTool\CyptoSearchTool\CoinGeckoAPI\obj\Debug\net8.0\ref\CoinGeckoAPI.dll
+G:\25'_SCHOOL_SPRING\CSE 445_dist.Soft.dev\WebApplication2\CoinGeckoAPI\bin\Debug\net8.0\appsettings.Development.json
+G:\25'_SCHOOL_SPRING\CSE 445_dist.Soft.dev\WebApplication2\CoinGeckoAPI\bin\Debug\net8.0\appsettings.json
+G:\25'_SCHOOL_SPRING\CSE 445_dist.Soft.dev\WebApplication2\CoinGeckoAPI\bin\Debug\net8.0\CoinGeckoAPI.staticwebassets.endpoints.json
+G:\25'_SCHOOL_SPRING\CSE 445_dist.Soft.dev\WebApplication2\CoinGeckoAPI\bin\Debug\net8.0\CoinGeckoAPI.exe
+G:\25'_SCHOOL_SPRING\CSE 445_dist.Soft.dev\WebApplication2\CoinGeckoAPI\bin\Debug\net8.0\CoinGeckoAPI.deps.json
+G:\25'_SCHOOL_SPRING\CSE 445_dist.Soft.dev\WebApplication2\CoinGeckoAPI\bin\Debug\net8.0\CoinGeckoAPI.runtimeconfig.json
+G:\25'_SCHOOL_SPRING\CSE 445_dist.Soft.dev\WebApplication2\CoinGeckoAPI\bin\Debug\net8.0\CoinGeckoAPI.dll
+G:\25'_SCHOOL_SPRING\CSE 445_dist.Soft.dev\WebApplication2\CoinGeckoAPI\bin\Debug\net8.0\CoinGeckoAPI.pdb
+G:\25'_SCHOOL_SPRING\CSE 445_dist.Soft.dev\WebApplication2\CoinGeckoAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+G:\25'_SCHOOL_SPRING\CSE 445_dist.Soft.dev\WebApplication2\CoinGeckoAPI\bin\Debug\net8.0\Newtonsoft.Json.dll
+G:\25'_SCHOOL_SPRING\CSE 445_dist.Soft.dev\WebApplication2\CoinGeckoAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+G:\25'_SCHOOL_SPRING\CSE 445_dist.Soft.dev\WebApplication2\CoinGeckoAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+G:\25'_SCHOOL_SPRING\CSE 445_dist.Soft.dev\WebApplication2\CoinGeckoAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+G:\25'_SCHOOL_SPRING\CSE 445_dist.Soft.dev\WebApplication2\CoinGeckoAPI\obj\Debug\net8.0\CoinGeckoAPI.csproj.AssemblyReference.cache
+G:\25'_SCHOOL_SPRING\CSE 445_dist.Soft.dev\WebApplication2\CoinGeckoAPI\obj\Debug\net8.0\CoinGeckoAPI.GeneratedMSBuildEditorConfig.editorconfig
+G:\25'_SCHOOL_SPRING\CSE 445_dist.Soft.dev\WebApplication2\CoinGeckoAPI\obj\Debug\net8.0\CoinGeckoAPI.AssemblyInfoInputs.cache
+G:\25'_SCHOOL_SPRING\CSE 445_dist.Soft.dev\WebApplication2\CoinGeckoAPI\obj\Debug\net8.0\CoinGeckoAPI.AssemblyInfo.cs
+G:\25'_SCHOOL_SPRING\CSE 445_dist.Soft.dev\WebApplication2\CoinGeckoAPI\obj\Debug\net8.0\CoinGeckoAPI.csproj.CoreCompileInputs.cache
+G:\25'_SCHOOL_SPRING\CSE 445_dist.Soft.dev\WebApplication2\CoinGeckoAPI\obj\Debug\net8.0\CoinGeckoAPI.MvcApplicationPartsAssemblyInfo.cs
+G:\25'_SCHOOL_SPRING\CSE 445_dist.Soft.dev\WebApplication2\CoinGeckoAPI\obj\Debug\net8.0\CoinGeckoAPI.MvcApplicationPartsAssemblyInfo.cache
+G:\25'_SCHOOL_SPRING\CSE 445_dist.Soft.dev\WebApplication2\CoinGeckoAPI\obj\Debug\net8.0\scopedcss\bundle\CoinGeckoAPI.styles.css
+G:\25'_SCHOOL_SPRING\CSE 445_dist.Soft.dev\WebApplication2\CoinGeckoAPI\obj\Debug\net8.0\staticwebassets.build.json
+G:\25'_SCHOOL_SPRING\CSE 445_dist.Soft.dev\WebApplication2\CoinGeckoAPI\obj\Debug\net8.0\staticwebassets.development.json
+G:\25'_SCHOOL_SPRING\CSE 445_dist.Soft.dev\WebApplication2\CoinGeckoAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+G:\25'_SCHOOL_SPRING\CSE 445_dist.Soft.dev\WebApplication2\CoinGeckoAPI\obj\Debug\net8.0\staticwebassets\msbuild.CoinGeckoAPI.Microsoft.AspNetCore.StaticWebAssets.props
+G:\25'_SCHOOL_SPRING\CSE 445_dist.Soft.dev\WebApplication2\CoinGeckoAPI\obj\Debug\net8.0\staticwebassets\msbuild.CoinGeckoAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+G:\25'_SCHOOL_SPRING\CSE 445_dist.Soft.dev\WebApplication2\CoinGeckoAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.CoinGeckoAPI.props
+G:\25'_SCHOOL_SPRING\CSE 445_dist.Soft.dev\WebApplication2\CoinGeckoAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.CoinGeckoAPI.props
+G:\25'_SCHOOL_SPRING\CSE 445_dist.Soft.dev\WebApplication2\CoinGeckoAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.CoinGeckoAPI.props
+G:\25'_SCHOOL_SPRING\CSE 445_dist.Soft.dev\WebApplication2\CoinGeckoAPI\obj\Debug\net8.0\staticwebassets.pack.json
+G:\25'_SCHOOL_SPRING\CSE 445_dist.Soft.dev\WebApplication2\CoinGeckoAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+G:\25'_SCHOOL_SPRING\CSE 445_dist.Soft.dev\WebApplication2\CoinGeckoAPI\obj\Debug\net8.0\CoinGeck.D3009DB5.Up2Date
+G:\25'_SCHOOL_SPRING\CSE 445_dist.Soft.dev\WebApplication2\CoinGeckoAPI\obj\Debug\net8.0\CoinGeckoAPI.dll
+G:\25'_SCHOOL_SPRING\CSE 445_dist.Soft.dev\WebApplication2\CoinGeckoAPI\obj\Debug\net8.0\refint\CoinGeckoAPI.dll
+G:\25'_SCHOOL_SPRING\CSE 445_dist.Soft.dev\WebApplication2\CoinGeckoAPI\obj\Debug\net8.0\CoinGeckoAPI.pdb
+G:\25'_SCHOOL_SPRING\CSE 445_dist.Soft.dev\WebApplication2\CoinGeckoAPI\obj\Debug\net8.0\CoinGeckoAPI.genruntimeconfig.cache
+G:\25'_SCHOOL_SPRING\CSE 445_dist.Soft.dev\WebApplication2\CoinGeckoAPI\obj\Debug\net8.0\ref\CoinGeckoAPI.dll
