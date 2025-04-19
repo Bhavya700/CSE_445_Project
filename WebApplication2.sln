@@ -11,6 +11,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xAPI", "C:\Users\9gbab\Down
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordFilteringService", "C:\Users\9gbab\Downloads\CyptoSearchTool\CyptoSearchTool\WordFilteringService\WordFilteringService.csproj", "{A05DF7F9-94D0-46F5-83E1-D28D9FB7612F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordFilteringTryIt", "C:\Users\9gbab\Downloads\CyptoSearchTool\CyptoSearchTool\WordFilteringTryIt\WordFilteringTryIt.csproj", "{BC1E685A-E0C5-4BA7-B422-C69C723622B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xAPITryIt", "C:\Users\9gbab\Downloads\CyptoSearchTool\CyptoSearchTool\xAPITryIt\xAPITryIt.csproj", "{79E01D42-0E31-4734-8FCC-F16242FE9A39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinGeckoTryIt", "C:\Users\9gbab\Downloads\CyptoSearchTool\CyptoSearchTool\CoinGeckoService\CoinGeckoTryIt.csproj", "{A0DC42D1-F49E-45E3-8084-5EB085CF33D1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +39,18 @@ Global
 		{A05DF7F9-94D0-46F5-83E1-D28D9FB7612F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A05DF7F9-94D0-46F5-83E1-D28D9FB7612F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A05DF7F9-94D0-46F5-83E1-D28D9FB7612F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC1E685A-E0C5-4BA7-B422-C69C723622B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC1E685A-E0C5-4BA7-B422-C69C723622B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC1E685A-E0C5-4BA7-B422-C69C723622B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC1E685A-E0C5-4BA7-B422-C69C723622B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79E01D42-0E31-4734-8FCC-F16242FE9A39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79E01D42-0E31-4734-8FCC-F16242FE9A39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79E01D42-0E31-4734-8FCC-F16242FE9A39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79E01D42-0E31-4734-8FCC-F16242FE9A39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0DC42D1-F49E-45E3-8084-5EB085CF33D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0DC42D1-F49E-45E3-8084-5EB085CF33D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0DC42D1-F49E-45E3-8084-5EB085CF33D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0DC42D1-F49E-45E3-8084-5EB085CF33D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
