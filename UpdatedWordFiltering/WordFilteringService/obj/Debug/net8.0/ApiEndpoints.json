@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "WordFilterAPI.Controllers.WordFilterController",
+    "Method": "FilterText",
+    "RelativePath": "api/WordFilter/filter",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "WordFilterAPI.Controllers.WordFilterRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]
