@@ -11,7 +11,8 @@ namespace UserPage.Controllers
     public class HomeController : Controller
     {
         private static readonly HttpClient _httpClient = new HttpClient();
-        private string xmlFilePath => Server.MapPath("~/App_Data/Members.xml");
+        private string XmlFilePathMembers => Server.MapPath("~/App_Data/Members.xml");
+        private string XmlFilePathAdmin => Server.MapPath("~/App_Data/Admins.xml");
         public async Task<ActionResult> Index(string coinName = "bitcoin", string currency = "usd")
         {
 
@@ -92,7 +93,7 @@ namespace UserPage.Controllers
         public ActionResult Login(UserViewModel model)
         {
             XmlDocument doc = new XmlDocument();
-            doc.Load(xmlFilePath);
+            doc.Load(XmlFilePathMembers);
 
             foreach (XmlNode node in doc.SelectNodes("/Users/User"))
             {
@@ -121,9 +122,9 @@ namespace UserPage.Controllers
         {
             XmlDocument doc = new XmlDocument();
 
-            if (System.IO.File.Exists(xmlFilePath))
+            if (System.IO.File.Exists(XmlFilePathMembers))
             {
-                doc.Load(xmlFilePath);
+                doc.Load(XmlFilePathMembers);
             }
             else
             {
@@ -145,11 +146,14 @@ namespace UserPage.Controllers
             newUser.AppendChild(passElem);
 
             doc.DocumentElement.AppendChild(newUser);
-            doc.Save(xmlFilePath);
+            doc.Save(XmlFilePathMembers);
 
             ViewBag.Message = "Account created successfully!";
             return View("SignupView");
         }
         //End of Bhavya's Code
+
+        //Igris's Code:
+
     }
 }

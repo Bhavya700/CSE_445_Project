@@ -1,0 +1,31 @@
+﻿@model UserPage.Models.UserViewModel
+@{
+    ViewBag.Title = "Admin Page";
+}
+<h2>Login</h2>
+
+@using (Html.BeginForm("Admin", "Home", FormMethod.Post))
+{
+    <div>
+        Username: @Html.TextBoxFor(m => m.Username)
+    </div>
+    <div>
+        Password: @Html.PasswordFor(m => m.Password)
+    </div>
+    <div>
+        @using (Html.BeginForm("Index", "Home", FormMethod.Get))
+        {
+            <a href="@Url.Action("SignOut", "Home")">
+                <button type="button">Sign Out</button> <!-- Getting error about button inside tag a, but other combinations keep returning errors-->
+            </a>
+        }
+    </div>
+    <div style="color:red;">
+        @ViewBag.Message
+    </div>
+    <footer>
+        <p>&copy; @DateTime.Now.Year - Made by Igris</p> <!-- foot note to show who made the page-->
+    </footer>
+}
+
+<!--Igiris's code-->
