@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35707.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication2", "WebApplication2\WebApplication2.csproj", "{0884D610-9A50-42AA-8FB6-DA47791B2800}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinGeckoAPI", "CoinGeckoAPI\CoinGeckoAPI.csproj", "{9B463A1C-E43E-4253-8AFF-5AD19357C0E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xAPI", "C:\Users\9gbab\Downloads\CyptoSearchTool\CyptoSearchTool\xAPI\xAPI.csproj", "{6550316F-02C3-4ED1-8C89-D720E8F9808E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordFilteringService", "C:\Users\9gbab\Downloads\CyptoSearchTool\CyptoSearchTool\WordFilteringService\WordFilteringService.csproj", "{A05DF7F9-94D0-46F5-83E1-D28D9FB7612F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WordFilteringTryIt", "C:\Users\9gbab\Downloads\CyptoSearchTool\CyptoSearchTool\WordFilteringTryIt\WordFilteringTryIt.csproj", "{BC1E685A-E0C5-4BA7-B422-C69C723622B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "xAPITryIt", "C:\Users\9gbab\Downloads\CyptoSearchTool\CyptoSearchTool\xAPITryIt\xAPITryIt.csproj", "{79E01D42-0E31-4734-8FCC-F16242FE9A39}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CoinGeckoTryIt", "C:\Users\9gbab\Downloads\CyptoSearchTool\CyptoSearchTool\CoinGeckoService\CoinGeckoTryIt.csproj", "{A0DC42D1-F49E-45E3-8084-5EB085CF33D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0884D610-9A50-42AA-8FB6-DA47791B2800}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0884D610-9A50-42AA-8FB6-DA47791B2800}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0884D610-9A50-42AA-8FB6-DA47791B2800}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0884D610-9A50-42AA-8FB6-DA47791B2800}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B463A1C-E43E-4253-8AFF-5AD19357C0E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B463A1C-E43E-4253-8AFF-5AD19357C0E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B463A1C-E43E-4253-8AFF-5AD19357C0E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B463A1C-E43E-4253-8AFF-5AD19357C0E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6550316F-02C3-4ED1-8C89-D720E8F9808E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6550316F-02C3-4ED1-8C89-D720E8F9808E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6550316F-02C3-4ED1-8C89-D720E8F9808E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6550316F-02C3-4ED1-8C89-D720E8F9808E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A05DF7F9-94D0-46F5-83E1-D28D9FB7612F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A05DF7F9-94D0-46F5-83E1-D28D9FB7612F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A05DF7F9-94D0-46F5-83E1-D28D9FB7612F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A05DF7F9-94D0-46F5-83E1-D28D9FB7612F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC1E685A-E0C5-4BA7-B422-C69C723622B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC1E685A-E0C5-4BA7-B422-C69C723622B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC1E685A-E0C5-4BA7-B422-C69C723622B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC1E685A-E0C5-4BA7-B422-C69C723622B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{79E01D42-0E31-4734-8FCC-F16242FE9A39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{79E01D42-0E31-4734-8FCC-F16242FE9A39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{79E01D42-0E31-4734-8FCC-F16242FE9A39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{79E01D42-0E31-4734-8FCC-F16242FE9A39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0DC42D1-F49E-45E3-8084-5EB085CF33D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0DC42D1-F49E-45E3-8084-5EB085CF33D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0DC42D1-F49E-45E3-8084-5EB085CF33D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0DC42D1-F49E-45E3-8084-5EB085CF33D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,31 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "xAPI",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/x/search": {
+      "get": {
+        "tags": [
+          "x"
+        ],
+        "parameters": [
+          {
+            "name": "query",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

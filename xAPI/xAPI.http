@@ -1,0 +1,4 @@
+@xAPI_HostAddress = http://localhost:5266
+
+GET {{xAPI_HostAddress}}/api/x/search?query=bitcoin
+Accept: application/json

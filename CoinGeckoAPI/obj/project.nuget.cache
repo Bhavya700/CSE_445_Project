@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qoWse5ZOUgw=",
+  "dgSpecHash": "GrUIMJB1ZT8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\9gbab\\Downloads\\CyptoSearchTool\\CyptoSearchTool\\CoinGeckoAPI\\CoinGeckoAPI.csproj",
+  "projectFilePath": "G:\\25'_SCHOOL_SPRING\\CSE 445_dist.Soft.dev\\CSE_445_Project\\CoinGeckoAPI\\CoinGeckoAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\9gbab\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "C:\\Users\\9gbab\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",

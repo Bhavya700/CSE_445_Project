@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "w+hU2ByWgcBGNKv6muO4pJtBBkVf75wt8itIYGP7XyM=",
+  "Source": "xAPI",
+  "BasePath": "_content/xAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
