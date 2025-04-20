@@ -8,6 +8,8 @@ using System.Xml;
 using SecurityUtils.Services;
 using WebApplication2.Services;
 
+// this was built by Bhavya PateL as a part of DDL class library Module and GUI Pages for login
+
 namespace CSE_445_Project
 {
     public partial class Signup : System.Web.UI.Page
