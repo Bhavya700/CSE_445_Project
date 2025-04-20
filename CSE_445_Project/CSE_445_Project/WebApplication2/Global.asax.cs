@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.IO;
 using System.Web;
 using System.Web.Routing;
@@ -16,13 +16,17 @@ namespace WebApplication2
         {
             RouteConfig.RegisterRoutes(RouteTable.Routes);
             BundleConfig.RegisterBundles(BundleTable.Bundles);
-
-            // optional crash‑test route
             RouteTable.Routes.MapPageRoute(
                 "CrashTest", "crash-test", "~/Crash.aspx"
             );
+            Application["ActiveUsers"] = 0;
         }
-
+        protected void Session_Start(object sender, EventArgs e)
+        {
+            Application.Lock();
+            Application["ActiveUsers"] = ((int)Application["ActiveUsers"]) + 1;
+            Application.UnLock();
+        }
         void Application_Error(object sender, EventArgs e)
         {
             try
