@@ -11,7 +11,7 @@ namespace WebApplication2
     {
         // lock to prevent concurrent file writes
         private static readonly object _logLock = new object();
-
+        // event handler for counting active users is added by Bhavya Patel
         void Application_Start(object sender, EventArgs e)
         {
             RouteConfig.RegisterRoutes(RouteTable.Routes);
